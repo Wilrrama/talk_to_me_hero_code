@@ -2,7 +2,7 @@
 import { useState } from "react";
 import Button from "./Button";
 import { Input } from "./Input";
-import { Join } from "./Join";
+import Join from "./Join";
 import { Create } from "./Create";
 
 export function FormWrapper() {
